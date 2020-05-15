@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">googlemapdemo</string>
+    <string name="google_place_api">API KEY HERE</string>
+</resources>
